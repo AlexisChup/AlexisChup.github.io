@@ -1,0 +1,287 @@
+{
+  "basics": {
+    "name": "Alexis Chupin",
+    "label": "Full-Stack Engineer",
+    "email": "alexischup@gmail.com",
+    "phone": "(+33) 615458303",
+    "url": "https://www.linkedin.com/in/alexis-chupin",
+    "summary": "French full-stack engineer with 5 years of software engineering experience across private banking, cybersecurity, and web development. Based in Bucharest, I build business-critical web platforms across React/TypeScript and Spring Boot/Java, with hands-on ownership of architecture, APIs, databases, CI/CD, production support, security remediation, and AI-assisted development using GitHub Copilot.",
+    "yearsOfExperience": 5,
+    "location": {
+      "city": "Bucharest",
+      "countryCode": "RO",
+      "region": "Bucharest"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "alexis-chupin",
+        "url": "https://www.linkedin.com/in/alexis-chupin"
+      },
+      {
+        "network": "GitHub",
+        "username": "AlexisChup",
+        "url": "https://github.com/AlexisChup"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Extia",
+      "position": "Full-Stack Engineer (V.I.E.)",
+      "location": "Bucharest, Romania",
+      "startDate": "2024-08-01",
+      "summary": "Consulting mission for Société Générale Private Banking, building and operating an internal credit management platform.",
+      "highlights": [
+        "Built and evolved a business-critical web application replacing complex Excel-based credit workflows for Private Banking teams in France.",
+        "Worked across the full product lifecycle: solution design, relational data modeling, front-end and back-end development, testing, CI/CD, production releases, monitoring, bug fixing, and functional evolution.",
+        "Designed multi-source API integrations to aggregate dossier, stakeholders, guarantees, and financial data into a single application.",
+        "Developed advanced business screens with real-time calculations, complex forms, safe navigation flows, and unsaved-changes protection.",
+        "Led major back-end and database evolutions, including Flyway migrations, production data scripts, feature flags, batch jobs, and APIs exposed to other internal systems.",
+        "Owned the application as sole developer during its latest phase, handling development, releases, production incidents, and service continuity.",
+        "Remediated pentest findings, including access-control and DTO update issues, by tightening back-end validation and update logic.",
+        "Used GitHub Copilot daily to accelerate implementation, technical exploration, and configuration work across React and Spring topics.",
+        "Delivered internal presentations on AI and developer use cases to senior stakeholders."
+      ],
+      "technologies": [
+        "React.js",
+        "TypeScript",
+        "React Router",
+        "Spring Boot",
+        "Java",
+        "PostgreSQL",
+        "Flyway",
+        "Jenkins",
+        "CI/CD",
+        "GitHub",
+        "Jira",
+        "REST APIs",
+        "BFF",
+        "BFB",
+        "Batch Jobs",
+        "Feature Flags",
+        "Monitoring",
+        "GitHub Copilot"
+      ]
+    },
+    {
+      "name": "Thales",
+      "position": "Cybersecurity Software Development Engineer",
+      "location": "Cholet, France",
+      "startDate": "2020-09-01",
+      "endDate": "2023-09-01",
+      "summary": "Three-year apprenticeship contributing to security tools for the Galileo network.",
+      "highlights": [
+        "Designed and delivered a navigation message generation tool for government Galileo messages, eliminating generation failures and reducing form completion time by 30%.",
+        "Built an offline graphical mapping tool for visualizing, creating, and manipulating 3D objects to support operators on cybersecurity software.",
+        "Provided support on cybersecurity software through bug fixes, feature additions, and additional test cases."
+      ],
+      "technologies": [
+        "React.js",
+        "TypeScript",
+        "JavaScript",
+        "Spring",
+        "Java",
+        "Docker",
+        "PostgreSQL",
+        "SQL",
+        "Git",
+        "OpenStreetMap",
+        "MapTalks",
+        "NSIS",
+        "Robot Framework"
+      ]
+    },
+    {
+      "name": "HommeDeMetier",
+      "position": "Web Developer Intern",
+      "location": "Remote",
+      "startDate": "2020-05-01",
+      "endDate": "2020-08-01",
+      "summary": "Internship focused on modernizing an internal website and building an e-commerce site with a forum.",
+      "highlights": [
+        "Implemented an authentication system for administrators and account creation for new trainees.",
+        "Built a forum for article publishing with SEO-oriented forms, listing, filtering, and article display pages.",
+        "Contributed to the e-commerce site across back-end product retrieval and front-end pagination, filters, and payment flow."
+      ],
+      "technologies": [
+        "React.js",
+        "JavaScript",
+        "Symfony",
+        "Twig",
+        "PHP",
+        "HTML",
+        "CSS",
+        "MySQL",
+        "SQL",
+        "Git"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "ESEO",
+      "studyType": "Engineering Degree",
+      "area": "Computer Science and Electronics (Major: Computer Science and Information Systems; Minor: Cybersecurity)",
+      "startDate": "2020-09-01",
+      "endDate": "2023-09-01",
+      "score": "TOEIC 900",
+      "courses": [
+        "Algorithms",
+        "Cybersecurity",
+        "Databases",
+        "Linux",
+        "Android",
+        "Web Development",
+        "Networks",
+        "Computer Architecture",
+        "Object-Oriented Programming",
+        "Project Management"
+      ]
+    },
+    {
+      "institution": "ESEO",
+      "studyType": "Bachelor Degree",
+      "area": "Connected Digital Solutions",
+      "startDate": "2018-09-01",
+      "endDate": "2020-09-01",
+      "score": "TOEIC 900",
+      "courses": [
+        "Algorithms",
+        "Web Development",
+        "Networks",
+        "Object-Oriented Programming",
+        "Mathematics",
+        "Physical Sciences",
+        "Project Management"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "keywords": [
+        "Java",
+        "TypeScript",
+        "JavaScript",
+        "PHP",
+        "SQL",
+        "Python"
+      ]
+    },
+    {
+      "name": "Frontend Development",
+      "keywords": [
+        "React",
+        "React Router",
+        "HTML",
+        "CSS",
+        "Twig"
+      ]
+    },
+    {
+      "name": "Backend Development",
+      "keywords": [
+        "Spring Boot",
+        "Symfony",
+        "Node.js",
+        "REST APIs",
+        "BFF",
+        "BFB"
+      ]
+    },
+    {
+      "name": "Databases",
+      "keywords": [
+        "PostgreSQL",
+        "MySQL",
+        "Flyway"
+      ]
+    },
+    {
+      "name": "DevOps and Delivery",
+      "keywords": [
+        "CI/CD",
+        "Jenkins",
+        "Docker",
+        "Git",
+        "GitHub",
+        "Batch Jobs",
+        "Feature Flags",
+        "Monitoring"
+      ]
+    },
+    {
+      "name": "Testing and Security",
+      "keywords": [
+        "Unit Testing",
+        "Integration Testing",
+        "Pentest Remediation",
+        "IDOR",
+        "Access Control",
+        "DTO Validation",
+        "Robot Framework"
+      ]
+    },
+    {
+      "name": "Mobile Development",
+      "keywords": [
+        "React Native",
+        "Expo",
+        "Android"
+      ]
+    },
+    {
+      "name": "AI-Assisted Development",
+      "keywords": [
+        "GitHub Copilot",
+        "Generative AI",
+        "AI-assisted Development"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "French",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Professional working proficiency (C1, TOEIC 900)"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "B1"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Fitness",
+      "keywords": [
+        "Strength Training",
+        "Discipline",
+        "Consistency"
+      ]
+    },
+    {
+      "name": "Personal Software Projects",
+      "keywords": [
+        "Mobile Applications",
+        "Web Applications",
+        "Independent Learning"
+      ]
+    },
+    {
+      "name": "Travel",
+      "keywords": [
+        "Adaptability",
+        "Intercultural Communication",
+        "Networking"
+      ]
+    }
+  ],
+  "meta": {
+    "version": "v1.0.0",
+    "lastModified": "2026-04-03T11:44:11Z"
+  }
+}
